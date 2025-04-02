@@ -3,6 +3,8 @@ cse
 aiml
 bengaluru
 devanahalli
+ece
+monika
 AUB
 CSE
 AIML
