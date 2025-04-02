@@ -3,3 +3,8 @@ cse
 aiml
 bengaluru
 devanahalli
+AUB
+CSE
+AIML
+BENGALURU
+DEVANAHALLI
