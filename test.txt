@@ -1,14 +1,3 @@
 aub
 cse
-aiml
-bengaluru
-devanahalli
-ece
-monika
-AUB
-CSE
-AIML
-BENGALURU
-DEVANAHALLI
-MONIKA
-ECE
+i am monika
