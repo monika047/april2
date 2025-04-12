@@ -11,6 +11,7 @@ int main() {
             fact *= i;
         }
         printf("Factorial of %d = %llu", n, fact);
+	printf("cse");
     }
 
     return 0;
